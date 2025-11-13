@@ -1,6 +1,6 @@
 # 🎯 Interview & Resume Coach Chatbot
 
-This project is an **AI-powered chatbot** designed to help users with **resume building**, **interview preparation**, and **placement guidance**.  
+Hi! This is Zabeer Safwan. I have created this **AI-powered chatbot** which is designed to help users with **resume building**, **interview preparation**, and **placement guidance**.  
 It acts as a **personal career coach**, giving helpful, conversational responses to any question related to interviews or resumes.
 
 ---
@@ -54,3 +54,5 @@ ollama pull llama3
 
 4️⃣ Run the chatbot
 streamlit run interview_chatbot_ollama.py
+
+
