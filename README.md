@@ -41,7 +41,7 @@ It acts as a **personal career coach**, giving helpful, conversational responses
 
 ### 1️⃣ Clone this Repository
 ```bash
-git clone https://github.com/<your-username>/interview-chatbot-app.git
+git clone https://github.com/TheTribalChief20/interview-chatbot-app.git
 cd interview-chatbot-app
 
 2️⃣ Install dependencies
