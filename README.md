@@ -40,7 +40,7 @@ It acts as a **personal career coach**, giving helpful, conversational responses
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone this Repository
-```bash
+
 git clone https://github.com/TheTribalChief20/interview-chatbot-app.git
 cd interview-chatbot-app
 
@@ -54,5 +54,3 @@ ollama pull llama3
 
 4️⃣ Run the chatbot
 streamlit run interview_chatbot_ollama.py
-
-
